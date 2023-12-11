@@ -1,0 +1,5 @@
+"sudo useradd [user name]"     /*this command is for adding a new user 
+"sudo passwd [user name]"      /*this command is for adding a password for the new user */
+"sudo userdel [user name]"      /*this command is for deleting an existing user */
+"sudo addgroup [user name] [group name]"      /*this command is for adding an user to a group*/
+"sudo delgroup [user name]  [group name] "     /*this command is for removing user from a group*/ 
