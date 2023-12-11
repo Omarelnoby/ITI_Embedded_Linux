@@ -1,0 +1,9 @@
+Q4:
+c.for files:rw-rw-rw-
+for directories:rwxrwxrwx
+e.sudo and root
+Q6:
+for a directory means cd 
+for a file means execute cfile or script
+Q7:
+the command passwd has s in user access privilages as it use some files or directories that might not be accessed by the owner and we want to execute it in the passwd command so we add set user id to this command
